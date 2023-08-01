@@ -5,6 +5,7 @@
  - [Respositório front-end](https://github.com/GabriellPassos/Receitas)
 
 ## :mag_right: Visão geral
+## Rotas
 ### Receita
   | Método     | Rota           | Descrição|
 | :---       |:---           |:---|
